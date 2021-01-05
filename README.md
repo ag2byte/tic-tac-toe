@@ -7,6 +7,19 @@ This is responsive as well.
 
 ❗ You must have npm installed to work with this.
 
+- Install react-icons,react-toastify
+
+```
+npm install react-icons react-toastify
+```
+
+- Install reactstrap and bootstrap
+
+```
+npm i bootstrap
+npm i reactstrap react react-dom
+```
+
 - Start the app
 
 ```
