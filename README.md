@@ -13,7 +13,7 @@ This is responsive as well.
 npm start
 ```
 
-    This should open the app on localhost
+This should open the app on localhost
 
 - Play with your friend, Reload when it ends
 - Enjoy!
